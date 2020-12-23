@@ -54,6 +54,11 @@ p {
 	padding: 0 40px;
 }
 
+#image {
+	width: 400vw;
+	margin-right: 10px;
+}
+
 #headshot {
 	width: 12.5%;
 	float: left;
