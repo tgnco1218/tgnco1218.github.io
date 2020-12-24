@@ -151,18 +151,19 @@ section:last-child {
 
 .sectionContent {
 	float: right;
+	text-align: justify;
 	width: 72.5%;
 }
 
 .sectionTitle h1 {
 	font-family: 'Lato', Helvetica, Arial, sans-serif;
-	font-size: 1.7em;
+	font-size: 1.5em;
 	color: #cf8a05;
 }
 
 .sectionContent h2 {
 	font-family: 'Lato', Helvetica, Arial, sans-serif;
-	font-size: 1.4em;
+	font-size: 1.3em;
 	margin-bottom: 0px;
 }
 
