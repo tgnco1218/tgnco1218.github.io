@@ -151,7 +151,6 @@ section:last-child {
 
 .sectionContent {
 	float: right;
-	text-align: justify;
 	width: 72.5%;
 }
 
@@ -169,6 +168,7 @@ section:last-child {
 
 .subDetails {
 	font-size: 0.8em;
+	text-align: justify;
 	font-style: italic;
 	margin-bottom: 3px;
 }
